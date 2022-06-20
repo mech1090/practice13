@@ -5,6 +5,6 @@
         "uri":"mongodb://localhost:27017"
     },
     "hash":{
-        "salit":10
+        "salt":10
     }
 }
